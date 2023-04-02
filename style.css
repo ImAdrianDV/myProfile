@@ -15,9 +15,20 @@
 }
 
 .sign-in-container {
-    left: 0;
-    width: 50%;
-    z-index: 2;
+    height: 380px;
+    width: 440px;
+    background: #ffffff63;
+    padding: 2%;
+    border-radius: 1rem;
+    box-shadow: 0px 0px 13px 4px #25242494;
+    position: absolute;
+    margin: 0 auto;
+    top: 40%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    left: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateX(-50%);
 }
 
 .form-container {
