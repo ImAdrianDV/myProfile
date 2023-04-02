@@ -30,4 +30,11 @@
     -ms-transform: translateY(-50%);
     transform: translateX(-50%);
 }
-
+.bg-lbue{
+    background-color:#cbf3ff!important;
+}
+.navbar-nav {
+    font-family: fangsong;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
