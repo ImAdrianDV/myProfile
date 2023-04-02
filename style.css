@@ -23,7 +23,7 @@
     box-shadow: 0px 0px 13px 4px #25242494;
     position: absolute;
     margin: 0 auto;
-    top: 40%;
+    top: 41%;
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
     left: 50%;
@@ -31,9 +31,3 @@
     transform: translateX(-50%);
 }
 
-.form-container {
-    position: absolute;
-    top: 0;
-    height: 100%;
-    transition: all 0.6s ease-in-out;
-}
