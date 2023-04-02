@@ -33,6 +33,11 @@
 .bg-light{
     background-color:#cbf3ff!important;
 }
+
+.navbar-expand-sm .navbar-nav .nav-link {
+    color: black;
+}
+
 .navbar-nav {
     font-family: fangsong;
     font-size: 1.5rem;
